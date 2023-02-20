@@ -1,1 +1,1 @@
-[!See ./ArtBecomeHumanPoster.PNG](./ArtBecomeHumanPoster.PNG)
+![See ./ArtBecomeHumanPoster.PNG](./ArtBecomeHumanPoster.PNG)
